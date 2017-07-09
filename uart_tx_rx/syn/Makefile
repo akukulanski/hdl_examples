@@ -1,7 +1,5 @@
 
 
-
-
 TOP = breadboard_top
 SRC = $(wildcard ../modules/*.v) ../top/$(TOP).v
 
